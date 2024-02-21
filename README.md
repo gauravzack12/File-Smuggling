@@ -7,7 +7,6 @@ It adopts HTML smuggling technique, leverages HTML5 and JavaScript to embed enco
 
 You can convert your file to HTML encoded format, with password protected, then use it as email attachment or file download from web.
 
-![alt text]()
 
 Download filesmugglingbuilder.html from this repository or try it online
 
@@ -17,18 +16,15 @@ Download filesmugglingbuilder.html from this repository or try it online
 ### Example
 
 ###### 1a. Choose target file `putty.exe`, then generate `putty.exe.html`
-![alt text]()
 #
 ###### 1b. Open `putty.exe.html`, then retrieve `putty.exe`
 ###### Download putty.exe.html from this repository or try it online
 
-https://eddiechu.github.io/putty.html (password is password)
+ (password is password)
 
 
-![alt text]()
 #
 ###### 2a. Choose target file `Sample Document.docx`, then generate `Sample Document.docx.html`
-![alt text]()
 #
 ###### 2b. Open `Sample Document.docx.html`, then retrieve `Sample Document.docx`
 ###### Download Sample Document.docx.html from this repository or try it online
@@ -36,7 +32,6 @@ https://eddiechu.github.io/putty.html (password is password)
  (password is password)
 
 
-![alt text]()
 
 ### HTML Smuggling Tachnique
 
