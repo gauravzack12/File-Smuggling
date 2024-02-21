@@ -29,7 +29,7 @@ Download filesmugglingbuilder.html from this repository or try it online
 ###### 2b. Open `Sample Document.docx.html`, then retrieve `Sample Document.docx`
 ###### Download Sample Document.docx.html from this repository or try it online
 
- (password is password)
+ https://github.com/gauravzack12/File-Smuggling (password is password)
 
 
 
