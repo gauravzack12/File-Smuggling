@@ -1,3 +1,5 @@
+Demo:- https://file-smuggling.netlify.app/
+
 # HTML smuggling is not an evil, it can be useful
 
 ### File Smuggling Builder
